@@ -7,6 +7,10 @@ public class dodawanie {
 int a=2+3;
 
 System.out.println("Wynik: " + a);
+
+System.out.println("Wynik: " + a + 2 + a);
+
+
 	}
 
 }
